@@ -4,7 +4,7 @@
 
 
 
-🔗 \*\*Interactive Dashboard:\*\* \[View on Tableau Public](https://public.tableau.com/views/Airbnb\_Project\_1/Dashboard1?:language=en-US\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link)
+🔗 \*\*Interactive Dashboard:\*\* \[View on Tableau Public]https://public.tableau.com/views/Airbnb_Project_1/Dashboard1
 
 
 
