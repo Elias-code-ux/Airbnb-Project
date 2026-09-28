@@ -1,6 +1,5 @@
 # Airbnb Market Performance Report
 
-\# Project Title
 
 
 
