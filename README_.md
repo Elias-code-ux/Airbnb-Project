@@ -45,5 +45,5 @@ customer satisfaction benchmarks.
 
 ## Author
 
-Elias Psagane Matlebyane
+Elias Matlebyane
 
